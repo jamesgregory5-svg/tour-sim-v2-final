@@ -1,6 +1,6 @@
 # Tour Sim v2 Final
 
-Tour Sim v2 (v2.2.2), a WebGL golf simulator. Play: https://jamesgregory5-svg.github.io/tour-sim-v2-final/
+Tour Sim v2 (v2.2.3), a WebGL golf simulator. Play: https://jamesgregory5-svg.github.io/tour-sim-v2-final/
 
 ## Features
 - **Password gate** when the page opens (remembered for the browser session only).
